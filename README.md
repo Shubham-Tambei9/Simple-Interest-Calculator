@@ -12,7 +12,7 @@ This project calculates simple interest based on user input for the principal am
 
 2. Navigate to the project directory:
     ```bash
-    cd simple-interest-calculator
+    cd Simple-Interest-Calculator
     ```
 
 3. Make the script executable:
